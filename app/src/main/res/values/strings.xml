@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TNews</string>
+
+    <!--    Action bar-->
+    <string name="search">Tnews search</string>
+    <string name="content_description_search">Search news by all attribute</string>
+    <string name="settings">Tnews setting</string>
+    <string name="content_description_settings">Setting app Tnews</string>
+    <string name="page_title">News</string>
+
 </resources>
